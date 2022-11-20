@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/ericmwangii.lwc-lapmr01l-fork-lapn4h69",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve DNwS3KLIfLSyNfzWBbuS --open"
+  }
+}
